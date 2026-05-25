@@ -1,0 +1,14 @@
+[
+  {
+    "id": "PROMO-EARLY-RISERS",
+    "title": "Early Risers",
+    "code": "EARLY",
+    "discount_pct": 10,
+    "valid_from": "2020-01-01 00:00:00",
+    "valid_until": "2099-12-31 23:59:59",
+    "description": "10% off for customers who shop between 8:00–10:00 AM Pacific Time. Request your personal code during the window to unlock the deal.",
+    "daily_start_hour": 8,
+    "daily_end_hour": 10,
+    "tags": []
+  }
+]

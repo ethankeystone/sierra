@@ -1,0 +1,118 @@
+Agent Chat Loop: Brief
+
+Assignment
+
+Use the provided OpenAI API key to write an agent chat loop that enables a user to input a message and receive a text response generated from OpenAI.
+
+Your completed take home should include support for the agent chat loop with the following features:
+
+
+
+
+
+Order Status and Tracking
+
+
+
+Product Recommendations
+
+
+
+Early Risers Promotion
+
+During your onsite, you’ll walk us through your implementation in a 20-minute discussion with our team, before building on top of your existing solution live. Be prepared to speak to specific design decisions you made or challenges you encountered during this exercise.
+
+
+
+OpenAI API Key: [redacted]
+
+
+
+
+
+Note: Your API Key is only eligible to be used to access gpt-4o and gpt-4o-mini. If you’d prefer to use other models, you’re welcome to use your own API key. If you have any issues, please contact us.
+
+
+
+Tooling
+
+You’re welcome (and encouraged) to use code copilots or productivity tools like Cursor, GitHub Copilot, or Claude to assist with your development. Please also feel encouraged to use tool-calling in your agent building exercise.
+
+However, please do not use agent-specific frameworks or orchestration libraries (e.g. OpenAI Agents SDK, AutoGen, agent templates). We’re interested in seeing how you structure an agent from scratch.
+
+
+
+Background
+
+This exercise simulates the early steps in building a Sierra Agent: interpreting a customer request, experimenting with prompt engineering, and structuring agent logic. It gives us insight into how you approach agent design, tradeoffs, and extensibility.
+
+
+
+What We’re Evaluating
+
+We want to understand how your decision making translates to code. We understand this will be a limited sample - we’ll be paying particular attention to the following:
+
+
+
+
+
+Craft and Code Quality: Is your code well-structured and easy to follow? Is it easy to extend to additional features or requirements?
+
+
+
+Use of AI: Does the solution demonstrate an understanding of how to integrate LLMs into an application?
+
+
+
+Conversation Design: Does the agent behave correctly with the correct tone?
+
+
+
+Communication: Are decisions and trade-offs clearly articulated?
+
+
+
+Customer Profile: Sierra Outfitters
+
+Sierra Outfitters is an emerging retailer competing with Patagonia, Cotopaxi, and REI. Their CEO left a high-profile job as a leader at HubSpot to pursue her dreams of leading a retail brand. They are completely new to generative AI, and are excited to see its capabilities. Additionally, they are preparing for peak seasonal traffic in which they see significant increases in inbounds and product issues.
+
+
+
+Brand Guidance
+
+Sierra Outfitters wants their agent to make frequent references to the outdoors. Think mountain emojis, enthusiastic phrases like “Onward into the unknown!” and more. You should incorporate this guidance in your agent output.
+
+
+
+Requirements
+
+
+
+
+
+Order Status and Tracking: After asking the customer’s email and order number, provide information about the order’s status and a tracking link.
+
+
+
+
+
+Use “Appendix A: CustomerOrders.json” as a static dataset
+
+
+
+Assume the tracking link is: https://tools.usps.com/go/TrackConfirmAction?tLabels={trackingNumber}
+
+
+
+Product Recommendations: Answer customer questions based off of product catalogue found in Appendix B.
+
+
+
+
+
+Use “Appendix B: ProductCatalog.json” as a static dataset
+
+
+
+Early Risers Promotion: Sierra Outfitters offers a 10% discount code to users during the hours of 8:00 - 10:00 AM in Pacific Time. If a customer explicitly requests an Early Risers Promotion during the valid time period, generate a unique discount code for that user.
+

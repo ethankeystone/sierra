@@ -1,4 +1,4 @@
-# Sierra Agent Chat Loop — System Design
+# Sierra Outfitters Agent Chat Loop — System Design
 
 ## Overview
 
@@ -77,7 +77,7 @@ CREATE TABLE customers (
     id                  TEXT PRIMARY KEY,  -- e.g. USR-001, generated on seed
     name                TEXT NOT NULL,     -- from CustomerName
     email               TEXT UNIQUE NOT NULL, -- from Email
-    profile             TEXT,              -- Claude-generated profile, updated on exit
+    profile             TEXT,              -- LLM-generated profile, updated on exit
     profile_updated_at  TEXT,
     created_at          TEXT DEFAULT (datetime('now'))
 );
@@ -139,7 +139,7 @@ CREATE TABLE promotion_tags (
 CREATE TABLE sessions (
     id          TEXT PRIMARY KEY,         -- uuid generated at session start
     customer_id TEXT REFERENCES customers(id),  -- null until customer identifies themselves
-    summary     TEXT,                     -- Claude-generated summary, written on exit
+    summary     TEXT,                     -- LLM-generated summary, written on exit
     started_at  TEXT DEFAULT (datetime('now')),
     ended_at    TEXT
 );
@@ -341,13 +341,13 @@ class Session:
 
     def persist(self):
         # Call 1 — generate and store session summary
-        summary = anthropic.messages.create(...)  # prompt: summarize customer preferences
+        summary = client.chat.completions.create(...)  # prompt: summarize customer preferences
         self.db.execute(
             "UPDATE sessions SET summary = ?, ended_at = ? WHERE id = ?", [...]
         )
         # Call 2 — update customer profile (skipped for anonymous sessions)
         if self._customer_id:
-            profile = anthropic.messages.create(...)  # prompt: merge old profile + summary
+            profile = client.chat.completions.create(...)  # prompt: merge old profile + summary
             self.db.execute(
                 "UPDATE customers SET profile = ?, profile_updated_at = ? WHERE id = ?", [...]
             )
@@ -363,8 +363,8 @@ try:
         session.messages.append({"role": "user", "content": user_input})
 
         while True:                          # inner tool-use loop
-            response = anthropic.messages.create(
-                model="claude-sonnet-4-6",
+            response = client.chat.completions.create(
+                model=MODEL,
                 system=session.system_prompt(),
                 tools=TOOL_DEFINITIONS,
                 messages=session.messages,
@@ -446,7 +446,7 @@ Input:  customers.profile (may be null) + sessions.summary from Call 1
 Output: written to customers.profile, customers.profile_updated_at
 ```
 
-Both calls use the same `claude-sonnet-4-6` model as the chat loop.
+Both calls use the same model as the chat loop.
 
 ### On next session start
 When the customer identifies, `on_customer_identified` queries:
@@ -469,7 +469,7 @@ sierra/
 ├── customer_orders.json       # source data: orders + customers
 ├── products.json              # source data: products + tags
 ├── sierra.db                  # SQLite database (git-ignored)
-└── requirements.txt           # anthropic
+└── requirements.txt
 ```
 
 ---
@@ -478,4 +478,4 @@ sierra/
 ## Open Questions
 
 1. Security? Prevent users from looking at other users orders / information.
-2. Truncate or compress complete chat history sent to Claude
+2. Truncate or compress complete chat history sent to the model

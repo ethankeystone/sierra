@@ -1,0 +1,1851 @@
+[
+  {
+    "ProductName": "TrailBuddy Solo Tent",
+    "SKU": "SOCS001",
+    "Price": 59.99,
+    "Inventory": 180,
+    "Description": "Compact, weather-resistant 1-person tent perfect for fair-weather camping and short backpacking trips. Single-pole freestanding design pitches in under five minutes.",
+    "Tags": [
+      "Camping",
+      "Hiking",
+      "Backpacking",
+      "Tent"
+    ]
+  },
+  {
+    "ProductName": "TrailBuddy 2-Person Tent",
+    "SKU": "SOCS002",
+    "Price": 129.99,
+    "Inventory": 140,
+    "Description": "Roomy two-person three-season tent with a full-coverage rainfly and two vestibules for gear storage. Freestanding design and color-coded poles make setup straightforward.",
+    "Tags": [
+      "Camping",
+      "Hiking",
+      "Backpacking",
+      "Tent"
+    ]
+  },
+  {
+    "ProductName": "BaseCamp 6-Person Family Tent",
+    "SKU": "SOCS003",
+    "Price": 189.99,
+    "Inventory": 90,
+    "Description": "Spacious cabin-style tent with near-vertical walls and an internal room divider. Ideal for car camping trips where standing room and living space matter more than pack weight.",
+    "Tags": [
+      "Camping",
+      "Car Camping",
+      "Tent"
+    ]
+  },
+  {
+    "ProductName": "Summit Shield 4-Season Mountaineering Tent",
+    "SKU": "SOCS004",
+    "Price": 449.99,
+    "Inventory": 35,
+    "Description": "Built for alpine conditions, this geodesic tent withstands heavy snow loads and sustained high winds. Reinforced seams and a low-profile pole structure keep you sheltered when temperatures and weather turn extreme.",
+    "Tags": [
+      "Camping",
+      "Mountaineering",
+      "Winter",
+      "4-Season",
+      "Tent"
+    ]
+  },
+  {
+    "ProductName": "AirHaven Ultralight Hammock",
+    "SKU": "SOCS005",
+    "Price": 44.99,
+    "Inventory": 220,
+    "Description": "Lightweight parachute-nylon hammock that packs to the size of a fist. Straps included \u2014 sets up between any two trees in minutes for a camp nap or an ultralight overnight.",
+    "Tags": [
+      "Camping",
+      "Hammock",
+      "Ultralight",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "AirHaven Pro Hammock with Bug Net",
+    "SKU": "SOCS006",
+    "Price": 89.99,
+    "Inventory": 130,
+    "Description": "Wider, longer hammock with an integrated zip-in bug net and a ridgeline for tarp attachment. The upgrade for hammock campers who want a comfortable, bug-free night's sleep.",
+    "Tags": [
+      "Camping",
+      "Hammock",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "SlumberPod Summer Sleeping Bag",
+    "SKU": "SOCS007",
+    "Price": 39.99,
+    "Inventory": 250,
+    "Description": "Rated to 50\u00b0F, this mummy-style bag is ideal for warm summer nights at the campground. Lightweight synthetic fill packs small and dries quickly if caught in the rain.",
+    "Tags": [
+      "Camping",
+      "Sleeping Bag",
+      "Summer"
+    ]
+  },
+  {
+    "ProductName": "TrailRest 3-Season Sleeping Bag",
+    "SKU": "SOCS008",
+    "Price": 89.99,
+    "Inventory": 160,
+    "Description": "20\u00b0F rated synthetic sleeping bag built for spring through fall adventures. Snag-free zipper, draft collar, and a trapezoidal footbox lock in warmth without feeling restrictive.",
+    "Tags": [
+      "Camping",
+      "Sleeping Bag",
+      "Hiking",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "ArcticDream -20\u00b0F Down Sleeping Bag",
+    "SKU": "SOCS009",
+    "Price": 319.99,
+    "Inventory": 45,
+    "Description": "Premium 800-fill goose down bag rated to -20\u00b0F for winter camping and expedition use. Hydrophobic down treatment and a water-resistant shell maintain loft even in damp conditions.",
+    "Tags": [
+      "Camping",
+      "Sleeping Bag",
+      "Winter",
+      "4-Season",
+      "Mountaineering"
+    ]
+  },
+  {
+    "ProductName": "SolarGlow Rechargeable Camping Lantern",
+    "SKU": "SOCS010",
+    "Price": 54.99,
+    "Inventory": 175,
+    "Description": "Solar-rechargeable LED lantern with 400 lumens on high. Folds flat for easy packing and charges via USB-C as a backup. Three brightness modes and a warm/cool color toggle.",
+    "Tags": [
+      "Camping",
+      "Lighting",
+      "Solar",
+      "Lantern"
+    ]
+  },
+  {
+    "ProductName": "QuickFlame Propane Camping Lantern",
+    "SKU": "SOCS011",
+    "Price": 29.99,
+    "Inventory": 200,
+    "Description": "Classic propane camping lantern with a push-button igniter and two mantles. Puts out 1,000 lumens of warm light \u2014 enough to illuminate an entire campsite for a full evening.",
+    "Tags": [
+      "Camping",
+      "Lighting",
+      "Lantern"
+    ]
+  },
+  {
+    "ProductName": "ClimbSafe 9.9mm Dynamic Rope (60m)",
+    "SKU": "SOCL001",
+    "Price": 109.99,
+    "Inventory": 80,
+    "Description": "UIAA-certified 9.9mm single rope with high impact absorption and low elongation. Suitable for sport climbing, trad, and gym top-roping \u2014 a reliable workhorse for a wide range of conditions.",
+    "Tags": [
+      "Climbing",
+      "Rope"
+    ]
+  },
+  {
+    "ProductName": "AlpineEdge Dry Rope 9.5mm (70m)",
+    "SKU": "SOCL002",
+    "Price": 229.99,
+    "Inventory": 40,
+    "Description": "Slim 9.5mm dry-treated rope optimized for alpine and ice climbing. Dry core and sheath resist water absorption, maintaining performance and weight in wet or icy mountain conditions.",
+    "Tags": [
+      "Climbing",
+      "Rope",
+      "Mountaineering",
+      "4-Season"
+    ]
+  },
+  {
+    "ProductName": "HarnessUp Recreational Climbing Harness",
+    "SKU": "SOCL003",
+    "Price": 54.99,
+    "Inventory": 110,
+    "Description": "Padded, adjustable beginner harness with four gear loops and speed-adjust leg loops. Comfortable for gym sessions and crag days, fitting waists 28\u201340 inches.",
+    "Tags": [
+      "Climbing",
+      "Harness"
+    ]
+  },
+  {
+    "ProductName": "AlpineFit Lightweight Climbing Harness",
+    "SKU": "SOCL004",
+    "Price": 124.99,
+    "Inventory": 60,
+    "Description": "Minimalist alpine harness weighing just 240g. Strips padding for packability while retaining a belay loop rated to 15kN. Ideal for mountaineering, ice climbing, and ski mountaineering.",
+    "Tags": [
+      "Climbing",
+      "Harness",
+      "Mountaineering",
+      "Ultralight"
+    ]
+  },
+  {
+    "ProductName": "IronGrip Locking Carabiner Set (6-pack)",
+    "SKU": "SOCL005",
+    "Price": 34.99,
+    "Inventory": 200,
+    "Description": "Six keylock locking carabiners with smooth gates for clipping ropes and slings without snagging. Each biner is rated to 24kN \u2014 suitable for belaying, rappelling, and anchor building.",
+    "Tags": [
+      "Climbing",
+      "Hardware"
+    ]
+  },
+  {
+    "ProductName": "SummitGuard Climbing Helmet",
+    "SKU": "SOCL006",
+    "Price": 74.99,
+    "Inventory": 95,
+    "Description": "UIAA and CE certified climbing helmet with a hybrid hardshell and foam construction. In-mold vents and a dial-fit headband provide all-day comfort on multi-pitch and mountaineering routes.",
+    "Tags": [
+      "Climbing",
+      "Mountaineering",
+      "Safety",
+      "Helmet"
+    ]
+  },
+  {
+    "ProductName": "CrampTight General Mountaineering Crampons",
+    "SKU": "SOCL007",
+    "Price": 89.99,
+    "Inventory": 55,
+    "Description": "12-point steel crampons compatible with most stiff mountaineering and hiking boots. Anti-balling plates prevent snow clumping underfoot, and the step-in/strap binding fits a wide range of boot sizes.",
+    "Tags": [
+      "Climbing",
+      "Mountaineering",
+      "Winter",
+      "Ice"
+    ]
+  },
+  {
+    "ProductName": "IceBreaker Classic Ice Axe (60cm)",
+    "SKU": "SOCL008",
+    "Price": 69.99,
+    "Inventory": 70,
+    "Description": "General mountaineering ice axe with an aluminum shaft and stainless steel head. The classic straight pick excels at self-arrest and step cutting on moderate snow and ice slopes.",
+    "Tags": [
+      "Climbing",
+      "Mountaineering",
+      "Winter",
+      "Ice"
+    ]
+  },
+  {
+    "ProductName": "IceBreaker Pro Technical Ice Axe (55cm)",
+    "SKU": "SOCL009",
+    "Price": 154.99,
+    "Inventory": 30,
+    "Description": "Aggressive curved pick for waterfall ice and steep alpine mixed routes. Lightweight carbon fiber shaft keeps swing weight low for sustained vertical climbing on technical terrain.",
+    "Tags": [
+      "Climbing",
+      "Mountaineering",
+      "Winter",
+      "Ice"
+    ]
+  },
+  {
+    "ProductName": "WaveRunner Sit-On-Top Recreational Kayak",
+    "SKU": "SOWS001",
+    "Price": 399.99,
+    "Inventory": 30,
+    "Description": "Stable, beginner-friendly sit-on-top kayak for calm lakes and slow rivers. Self-draining scupper holes and a wide hull make it forgiving and easy to re-enter after a wet exit.",
+    "Tags": [
+      "Water Sports",
+      "Kayaking"
+    ]
+  },
+  {
+    "ProductName": "OceanCraft 17ft Touring Sea Kayak",
+    "SKU": "SOWS002",
+    "Price": 899.99,
+    "Inventory": 15,
+    "Description": "Long-waterline touring kayak built for open water and coastal expeditions. Sealed bow and stern hatches, a retractable skeg, and an ergonomic cockpit for all-day paddling efficiency.",
+    "Tags": [
+      "Water Sports",
+      "Kayaking",
+      "Touring"
+    ]
+  },
+  {
+    "ProductName": "AirGlide Inflatable Stand-Up Paddleboard",
+    "SKU": "SOWS003",
+    "Price": 499.99,
+    "Inventory": 50,
+    "Description": "Drop-stitch inflatable SUP that inflates to 15 PSI for a rigid feel on flat water. Includes paddle, pump, leash, and carry bag \u2014 everything you need out of the box.",
+    "Tags": [
+      "Water Sports",
+      "Paddleboard"
+    ]
+  },
+  {
+    "ProductName": "RigidEdge Epoxy Performance Paddleboard",
+    "SKU": "SOWS004",
+    "Price": 799.99,
+    "Inventory": 20,
+    "Description": "Hard epoxy SUP with a displacement hull for speed and touring efficiency. Premium EPS core and carbon fiber rails deliver a performance ride for distance paddling and racing.",
+    "Tags": [
+      "Water Sports",
+      "Paddleboard",
+      "Touring"
+    ]
+  },
+  {
+    "ProductName": "DrySeal Waterproof Bag 10L",
+    "SKU": "SOWS005",
+    "Price": 19.99,
+    "Inventory": 300,
+    "Description": "Roll-top dry bag that keeps gear bone-dry in any conditions. 500D PVC tarpaulin construction with welded seams \u2014 a kayaking and rafting essential that doubles as camp storage.",
+    "Tags": [
+      "Water Sports",
+      "Dry Bag",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "DrySeal Waterproof Bag 30L",
+    "SKU": "SOWS006",
+    "Price": 34.99,
+    "Inventory": 200,
+    "Description": "Larger roll-top dry bag for multi-day river trips and kayak camping. Fits a sleeping bag, clothing, and food with room to spare. Same bombproof PVC construction as the 10L.",
+    "Tags": [
+      "Water Sports",
+      "Dry Bag",
+      "Camping"
+    ]
+  },
+  {
+    "ProductName": "WetShield Shorty Wetsuit 2mm",
+    "SKU": "SOWS007",
+    "Price": 79.99,
+    "Inventory": 85,
+    "Description": "Short-arm, short-leg 2mm neoprene wetsuit for summer kayaking, surfing, and paddleboarding. Flatlock stitching and a YKK back zip keep the suit comfortable and easy to get in and out of.",
+    "Tags": [
+      "Water Sports",
+      "Wetsuit",
+      "Summer"
+    ]
+  },
+  {
+    "ProductName": "WetShield Full Wetsuit 5mm",
+    "SKU": "SOWS008",
+    "Price": 199.99,
+    "Inventory": 60,
+    "Description": "Full-coverage 5mm neoprene suit for cold-water diving, surfing, and kayaking in sub-60\u00b0F water. Glued and blind-stitched seams minimize water flushing for extended warmth and comfort.",
+    "Tags": [
+      "Water Sports",
+      "Wetsuit",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "AquaSafe Type III PFD",
+    "SKU": "SOWS009",
+    "Price": 69.99,
+    "Inventory": 120,
+    "Description": "USCG-approved Type III personal flotation device with mesh back panels for ventilation and multiple adjustment points for a secure fit. Non-negotiable safety gear for every paddler.",
+    "Tags": [
+      "Water Sports",
+      "Safety",
+      "Kayaking"
+    ]
+  },
+  {
+    "ProductName": "PowderFlex Beginner Snowboard",
+    "SKU": "SOSN001",
+    "Price": 249.99,
+    "Inventory": 55,
+    "Description": "Soft-flexing all-mountain board designed to be forgiving for riders learning to carve and link turns. Twin tip shape works switch, and a rockered profile helps prevent catching edges.",
+    "Tags": [
+      "Snow",
+      "Snowboarding",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "AllMountain Pro Snowboard",
+    "SKU": "SOSN002",
+    "Price": 449.99,
+    "Inventory": 40,
+    "Description": "Versatile medium-stiff all-mountain board that handles groomers, moguls, and side-country powder. Directional twin shape and a camber-rocker hybrid profile balance edge hold and float.",
+    "Tags": [
+      "Snow",
+      "Snowboarding",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "RaceCarve Performance Snowboard",
+    "SKU": "SOSN003",
+    "Price": 649.99,
+    "Inventory": 20,
+    "Description": "Stiff, race-inspired directional board built for high-speed carving on hardpack. Full camber profile and a narrow waist maximize edge contact and power transmission at speed.",
+    "Tags": [
+      "Snow",
+      "Snowboarding",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "TrailPole Aluminum Ski Poles (pair)",
+    "SKU": "SOSN004",
+    "Price": 49.99,
+    "Inventory": 120,
+    "Description": "Durable aluminum ski poles with ergonomic foam grips and adjustable wrist straps. Tapered baskets handle groomed runs and light powder without getting bogged down.",
+    "Tags": [
+      "Snow",
+      "Skiing",
+      "Winter",
+      "Poles"
+    ]
+  },
+  {
+    "ProductName": "CarbonLite Racing Ski Poles (pair)",
+    "SKU": "SOSN005",
+    "Price": 149.99,
+    "Inventory": 35,
+    "Description": "Ultralight full-carbon ski poles that shave weight without sacrificing stiffness. Low-profile race baskets, a trigger grip, and durable anti-scratch coating for high-performance skiing.",
+    "Tags": [
+      "Snow",
+      "Skiing",
+      "Winter",
+      "Poles"
+    ]
+  },
+  {
+    "ProductName": "AvalancheAlert Digital Beacon",
+    "SKU": "SOSN006",
+    "Price": 299.99,
+    "Inventory": 45,
+    "Description": "3-antenna digital avalanche transceiver with a large display and directional arrows for rapid victim location. Automatic transmit-to-receive switching on power-on. Essential backcountry safety gear.",
+    "Tags": [
+      "Snow",
+      "Avalanche",
+      "Mountaineering",
+      "Safety",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "ClearView Ski Goggles",
+    "SKU": "SOSN007",
+    "Price": 39.99,
+    "Inventory": 150,
+    "Description": "Anti-fog coated cylindrical lens goggles with UV400 protection and a triple-layer foam gasket. OTG (over-the-glasses) friendly and compatible with most helmets.",
+    "Tags": [
+      "Snow",
+      "Skiing",
+      "Snowboarding",
+      "Winter",
+      "Goggles"
+    ]
+  },
+  {
+    "ProductName": "PanoramaVision Premium Ski Goggles",
+    "SKU": "SOSN008",
+    "Price": 179.99,
+    "Inventory": 70,
+    "Description": "Spherical lens goggles with a wide field of vision and a magnetic quick-change lens system. Anti-scratch, anti-fog, 100% UV \u2014 ready for any light condition from bluebird to flat light.",
+    "Tags": [
+      "Snow",
+      "Skiing",
+      "Snowboarding",
+      "Winter",
+      "Goggles"
+    ]
+  },
+  {
+    "ProductName": "HeatPocket Hand Warmers (12-pack)",
+    "SKU": "SOSN009",
+    "Price": 14.99,
+    "Inventory": 400,
+    "Description": "Air-activated disposable hand warmers providing up to 10 hours of steady heat per packet. Odorless, portable, and indispensable for cold-weather hiking, skiing, and hunting.",
+    "Tags": [
+      "Snow",
+      "Winter",
+      "Camping"
+    ]
+  },
+  {
+    "ProductName": "TrailBeam 150-Lumen Headlamp",
+    "SKU": "SONT001",
+    "Price": 24.99,
+    "Inventory": 250,
+    "Description": "Lightweight AAA-powered headlamp with 150 lumens and a 50-meter beam. High, low, and red night-vision modes in an IPX4 water-resistant housing \u2014 reliable and affordable.",
+    "Tags": [
+      "Navigation",
+      "Lighting",
+      "Camping",
+      "Hiking",
+      "Headlamp"
+    ]
+  },
+  {
+    "ProductName": "NightForce Pro 800-Lumen Headlamp",
+    "SKU": "SONT002",
+    "Price": 79.99,
+    "Inventory": 140,
+    "Description": "Rechargeable headlamp delivering 800 lumens on turbo with a 120-meter throw. USB-C charging, powerbank output to charge a phone, and a lockout mode to prevent accidental activation in your pack.",
+    "Tags": [
+      "Navigation",
+      "Lighting",
+      "Camping",
+      "Hiking",
+      "Tech",
+      "Headlamp"
+    ]
+  },
+  {
+    "ProductName": "TrailNavigator Handheld GPS",
+    "SKU": "SONT003",
+    "Price": 199.99,
+    "Inventory": 75,
+    "Description": "Rugged handheld GPS with a 3-inch color touchscreen and preloaded USGS topo maps. Records tracks, marks waypoints, and calculates routes entirely without a cell signal.",
+    "Tags": [
+      "Navigation",
+      "Tech",
+      "Hiking",
+      "Mountaineering"
+    ]
+  },
+  {
+    "ProductName": "SatLink Two-Way Satellite Communicator",
+    "SKU": "SONT004",
+    "Price": 349.99,
+    "Inventory": 40,
+    "Description": "Two-way satellite text messaging and GPS tracking device with a dedicated SOS button that alerts rescue services globally. Works anywhere on Earth \u2014 no cell towers required.",
+    "Tags": [
+      "Navigation",
+      "Tech",
+      "Safety",
+      "Mountaineering",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "SolarJuice 10W Foldable Solar Charger",
+    "SKU": "SONT005",
+    "Price": 59.99,
+    "Inventory": 110,
+    "Description": "Lightweight foldable solar panel with a USB-A output. Clips to a pack and charges a phone in full sun in 2\u20133 hours \u2014 ideal for multi-day trips off the grid.",
+    "Tags": [
+      "Tech",
+      "Solar",
+      "Hiking",
+      "Camping"
+    ]
+  },
+  {
+    "ProductName": "SolarJuice 25W High-Output Solar Charger",
+    "SKU": "SONT006",
+    "Price": 139.99,
+    "Inventory": 65,
+    "Description": "25-watt foldable solar array with dual USB-A and USB-C (18W PD) outputs. Charges tablets, GPS units, and camera batteries simultaneously. ETFE coating resists abrasion on the trail.",
+    "Tags": [
+      "Tech",
+      "Solar",
+      "Camping"
+    ]
+  },
+  {
+    "ProductName": "BasePoint Orienteering Compass",
+    "SKU": "SONT007",
+    "Price": 14.99,
+    "Inventory": 300,
+    "Description": "Liquid-filled baseplate compass with a magnifying lens, map ruler, and rotating azimuth ring. Accurate and reliable \u2014 the first compass every hiker should own.",
+    "Tags": [
+      "Navigation",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "SightMaster Pro Sighting Compass",
+    "SKU": "SONT008",
+    "Price": 49.99,
+    "Inventory": 90,
+    "Description": "Mirror-sighting compass with declination adjustment, a global needle, and a clinometer for slope measurement. Preferred by mountain guides and search-and-rescue teams for precision backcountry navigation.",
+    "Tags": [
+      "Navigation",
+      "Hiking",
+      "Mountaineering"
+    ]
+  },
+  {
+    "ProductName": "QuickStep Lightweight Trail Runners",
+    "SKU": "SOAP001",
+    "Price": 89.99,
+    "Inventory": 140,
+    "Description": "Breathable mesh trail runners with a rock plate and sticky rubber outsole. Low-profile enough for road runs, aggressive enough for technical singletrack.",
+    "Tags": [
+      "Footwear",
+      "Hiking",
+      "Trail Running",
+      "Apparel"
+    ]
+  },
+  {
+    "ProductName": "SummitTread Mid Waterproof Hiking Boots",
+    "SKU": "SOAP002",
+    "Price": 139.99,
+    "Inventory": 100,
+    "Description": "Mid-cut Gore-Tex hiking boots with a grippy Vibram outsole and torsional shank. Waterproof and breathable for muddy trails, stream crossings, and full-day mountain hikes.",
+    "Tags": [
+      "Footwear",
+      "Hiking",
+      "Waterproof",
+      "Apparel"
+    ]
+  },
+  {
+    "ProductName": "VerticalEdge Mountaineering Boots",
+    "SKU": "SOAP003",
+    "Price": 349.99,
+    "Inventory": 25,
+    "Description": "Crampon-compatible double mountaineering boots with a removable insulated liner rated to -40\u00b0F. Stiff sole transmits power on technical ice and mixed terrain; plastic shell sheds snow and moisture.",
+    "Tags": [
+      "Footwear",
+      "Mountaineering",
+      "Winter",
+      "4-Season",
+      "Ice"
+    ]
+  },
+  {
+    "ProductName": "PacificShell Packable Rain Jacket",
+    "SKU": "SOAP004",
+    "Price": 64.99,
+    "Inventory": 180,
+    "Description": "2.5-layer waterproof-breathable rain jacket that packs into its own chest pocket. Fully taped seams, a helmet-compatible hood, and pit zips for venting on steep climbs.",
+    "Tags": [
+      "Apparel",
+      "Hiking",
+      "Waterproof",
+      "Jacket"
+    ]
+  },
+  {
+    "ProductName": "AlpineBarrier Gore-Tex Pro Shell",
+    "SKU": "SOAP005",
+    "Price": 249.99,
+    "Inventory": 45,
+    "Description": "Expedition-grade 3-layer Gore-Tex Pro jacket for severe mountain weather. Helmet-compatible hood, reinforced shoulders for pack straps, RECCO reflector, and underarm vents for high-output ascents.",
+    "Tags": [
+      "Apparel",
+      "Mountaineering",
+      "Waterproof",
+      "4-Season",
+      "Jacket"
+    ]
+  },
+  {
+    "ProductName": "WoolCore Merino Base Layer Top",
+    "SKU": "SOAP006",
+    "Price": 69.99,
+    "Inventory": 160,
+    "Description": "150gsm merino wool long-sleeve base layer that regulates temperature, resists odor, and dries quickly. Flatlock seams prevent chafing under a pack \u2014 wear it for days without any issues.",
+    "Tags": [
+      "Apparel",
+      "Base Layer",
+      "Hiking",
+      "Winter",
+      "Merino"
+    ]
+  },
+  {
+    "ProductName": "ThermalVault PrimaLoft Insulated Jacket",
+    "SKU": "SOAP007",
+    "Price": 129.99,
+    "Inventory": 110,
+    "Description": "PrimaLoft Gold synthetic insulated jacket that stays warm even when wet. Packs into its own inner pocket, making it a reliable belay layer or cold-snap insurance on any alpine objective.",
+    "Tags": [
+      "Apparel",
+      "Hiking",
+      "Winter",
+      "Camping",
+      "Jacket"
+    ]
+  },
+  {
+    "ProductName": "ArcticDown 800-Fill Puffy Jacket",
+    "SKU": "SOAP008",
+    "Price": 219.99,
+    "Inventory": 70,
+    "Description": "800-fill-power hydrophobic goose down jacket with a DWR-treated shell. Packs into a stuff sack smaller than a water bottle and weighs just 380g \u2014 exceptional warmth-to-weight for cold belays and winter camping.",
+    "Tags": [
+      "Apparel",
+      "Winter",
+      "4-Season",
+      "Ultralight",
+      "Jacket"
+    ]
+  },
+  {
+    "ProductName": "TrailWind Running Shorts",
+    "SKU": "SOAP009",
+    "Price": 39.99,
+    "Inventory": 200,
+    "Description": "4-inch inseam trail running shorts with a built-in brief liner and two zippered side pockets. Moisture-wicking fabric and stretch panels move freely on technical terrain.",
+    "Tags": [
+      "Apparel",
+      "Trail Running",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "AlpineGuard Low-Cut Trail Gaiters",
+    "SKU": "SOAP010",
+    "Price": 34.99,
+    "Inventory": 175,
+    "Description": "Lightweight gaiters that keep debris, mud, and snow out of your shoes on the trail. Velcro closure, instep strap, and elastic binding fit most trail runners and mid-height hiking boots.",
+    "Tags": [
+      "Apparel",
+      "Footwear",
+      "Hiking",
+      "Snow",
+      "Trail Running"
+    ]
+  },
+  {
+    "ProductName": "LifeStraw Personal Water Filter",
+    "SKU": "SOFD001",
+    "Price": 19.99,
+    "Inventory": 350,
+    "Description": "Hollow-fiber membrane filter that removes 99.999999% of bacteria and 99.999% of protozoa from any freshwater source. Filters up to 4,000 liters \u2014 no batteries, pumping, or chemicals required.",
+    "Tags": [
+      "Food",
+      "Water Filter",
+      "Hiking",
+      "Safety",
+      "Ultralight"
+    ]
+  },
+  {
+    "ProductName": "GravityWorks 4L Group Filter System",
+    "SKU": "SOFD002",
+    "Price": 64.99,
+    "Inventory": 90,
+    "Description": "Gravity-fed hollow-fiber filter for base camp and group use. Hang the dirty reservoir and let gravity push water through at 1.5 liters per minute \u2014 no pumping required.",
+    "Tags": [
+      "Food",
+      "Water Filter",
+      "Camping",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "JetBoil Flash Backpacking Stove System",
+    "SKU": "SOFD003",
+    "Price": 109.99,
+    "Inventory": 115,
+    "Description": "Integrated canister stove system that boils 500ml of water in 100 seconds. The push-button igniter, heat exchanger, and insulated cup all nest inside each other for an incredibly compact packable kit.",
+    "Tags": [
+      "Food",
+      "Stove",
+      "Backpacking",
+      "Camping"
+    ]
+  },
+  {
+    "ProductName": "TitanFlame Ultralight Titanium Stove",
+    "SKU": "SOFD004",
+    "Price": 44.99,
+    "Inventory": 130,
+    "Description": "Minimalist 56-gram titanium stove that screws onto a standard isobutane canister. Folds flat for packing and works with any pot \u2014 the choice of ultralighters who count every gram.",
+    "Tags": [
+      "Food",
+      "Stove",
+      "Ultralight",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "TrailFeast Freeze-Dried Meal (Single Serving)",
+    "SKU": "SOFD005",
+    "Price": 11.99,
+    "Inventory": 500,
+    "Description": "Just-add-boiling-water freeze-dried backpacking meal with 500\u2013600 kcal per serving. Available in varieties like Chicken Tikka Masala, Mac & Cheese, and Beef Stroganoff. Rehydrates in 10 minutes in the bag.",
+    "Tags": [
+      "Food",
+      "Freeze-Dried",
+      "Camping",
+      "Hiking",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "TrailFeast Variety Pack (6 Meals)",
+    "SKU": "SOFD006",
+    "Price": 59.99,
+    "Inventory": 180,
+    "Description": "Curated six-meal assortment \u2014 two breakfasts, two lunches, two dinners \u2014 covering three days of backcountry eating at a slight discount over buying individually.",
+    "Tags": [
+      "Food",
+      "Freeze-Dried",
+      "Camping",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "ElectroPulse Electrolyte Tablets (20-pack)",
+    "SKU": "SOFD007",
+    "Price": 24.99,
+    "Inventory": 280,
+    "Description": "Effervescent electrolyte tablets with sodium, potassium, magnesium, and B vitamins. One tablet dissolved in 16 oz of water delivers fast hydration without sugar or artificial dyes.",
+    "Tags": [
+      "Food",
+      "Hydration",
+      "Nutrition",
+      "Trail Running",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "HydroFlow 2L Insulated Hydration Reservoir",
+    "SKU": "SOFD008",
+    "Price": 49.99,
+    "Inventory": 145,
+    "Description": "2-liter insulated hydration reservoir with a bite valve and magnetic tube clip. Thermal insulation keeps water cool for hours on hot-weather hikes \u2014 fits most hydration-compatible packs.",
+    "Tags": [
+      "Food",
+      "Hydration",
+      "Hiking",
+      "Trail Running"
+    ]
+  },
+  {
+    "ProductName": "SummitBar High-Protein Trail Bar (12-pack)",
+    "SKU": "SOFD009",
+    "Price": 29.99,
+    "Inventory": 320,
+    "Description": "20g protein, 350 kcal trail bars in oat-chocolate, almond-coconut, and berry-cashew varieties. No artificial preservatives \u2014 real food ingredients that hold up in a pack for weeks.",
+    "Tags": [
+      "Food",
+      "Nutrition",
+      "Hiking",
+      "Trail Running",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "TrailRest Foam Sleeping Pad",
+    "SKU": "SOCS012",
+    "Price": 24.99,
+    "Inventory": 300,
+    "Description": "Closed-cell foam sleeping pad that never deflates and doubles as a sit pad or pack frame. Z-fold design packs flat on the outside of a pack. The bulletproof budget choice for three-season camping.",
+    "Tags": [
+      "Camping",
+      "Sleeping Pad",
+      "Backpacking",
+      "Ultralight"
+    ]
+  },
+  {
+    "ProductName": "ComfortRest Self-Inflating Sleeping Pad",
+    "SKU": "SOCS013",
+    "Price": 74.99,
+    "Inventory": 140,
+    "Description": "Open-cell foam self-inflating pad that expands on its own \u2014 just open the valve and wait. R-value of 3.5 makes it suitable for three seasons; a top-up with a few breaths firms it to your preference.",
+    "Tags": [
+      "Camping",
+      "Sleeping Pad",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "AirCore Ultralight Inflatable Sleeping Pad",
+    "SKU": "SOCS014",
+    "Price": 159.99,
+    "Inventory": 85,
+    "Description": "Horizontally baffled inflatable pad with an R-value of 4.5 and a packed size smaller than a water bottle. At 400g it's built for weight-conscious backpackers who refuse to sacrifice sleep quality.",
+    "Tags": [
+      "Camping",
+      "Sleeping Pad",
+      "Backpacking",
+      "Ultralight"
+    ]
+  },
+  {
+    "ProductName": "StormShield Silnylon Camping Tarp",
+    "SKU": "SOCS015",
+    "Price": 69.99,
+    "Inventory": 110,
+    "Description": "10x10ft silnylon tarp that sets up in minutes with trekking poles or trees. At 500g it's an ultralight alternative to a tent footprint or a roomy porch over your hammock in a downpour.",
+    "Tags": [
+      "Camping",
+      "Backpacking",
+      "Ultralight",
+      "Tarp"
+    ]
+  },
+  {
+    "ProductName": "BaseCamp Lightweight Camp Chair",
+    "SKU": "SOCS016",
+    "Price": 49.99,
+    "Inventory": 160,
+    "Description": "Packable camp chair with a low-slung seat and aluminum frame. Supports up to 300 lbs and folds into a compact carry bag. The evening campfire staple for car campers and festivals alike.",
+    "Tags": [
+      "Camping",
+      "Car Camping"
+    ]
+  },
+  {
+    "ProductName": "BearVault Bear Canister",
+    "SKU": "SOCS017",
+    "Price": 79.99,
+    "Inventory": 65,
+    "Description": "7-liter polycarbonate bear canister with a tool-free lid that grizzlies and black bears can't open. Holds 4\u20135 days of food for one person. Required in many national park backcountry zones.",
+    "Tags": [
+      "Camping",
+      "Backpacking",
+      "Safety"
+    ]
+  },
+  {
+    "ProductName": "SendIt Sport Quickdraws (6-pack)",
+    "SKU": "SOCL010",
+    "Price": 64.99,
+    "Inventory": 120,
+    "Description": "Six sport climbing quickdraws with a straight-gate bolt-end biner and a bent-gate rope-end biner. Dogbone length 12cm \u2014 the standard setup for clipping bolts on sport routes.",
+    "Tags": [
+      "Climbing",
+      "Hardware"
+    ]
+  },
+  {
+    "ProductName": "LockDown Assisted Belay Device",
+    "SKU": "SOCL011",
+    "Price": 99.99,
+    "Inventory": 70,
+    "Description": "Cam-assisted locking belay device for lead belaying and rappelling. The assisted-braking mechanism reduces the effort required to hold a fall, making it a popular choice for gym and crag use.",
+    "Tags": [
+      "Climbing",
+      "Hardware",
+      "Safety"
+    ]
+  },
+  {
+    "ProductName": "ATC Guide Belay Device",
+    "SKU": "SOCL012",
+    "Price": 24.99,
+    "Inventory": 200,
+    "Description": "Versatile tube-style belay and rappel device compatible with ropes from 7.7\u201311mm. Works in guide mode for hands-free holding when multi-pitch belaying the second. The reliable workhorse of every rack.",
+    "Tags": [
+      "Climbing",
+      "Hardware",
+      "Safety"
+    ]
+  },
+  {
+    "ProductName": "ChalkUp Drawstring Chalk Bag",
+    "SKU": "SOCL013",
+    "Price": 19.99,
+    "Inventory": 250,
+    "Description": "Medium-sized chalk bag with a stiff rim, fleece lining, and a zip pocket for a key or a tick-mark brush. Fits a waist belt for climbing or hooks on a bouldering pad strap.",
+    "Tags": [
+      "Climbing"
+    ]
+  },
+  {
+    "ProductName": "LandingZone Bouldering Crash Pad",
+    "SKU": "SOCL014",
+    "Price": 184.99,
+    "Inventory": 30,
+    "Description": "4-inch foam crash pad with a hinged fold-flat design and a backpack carry system. The open-cell top layer absorbs impact; the closed-cell base provides firm, consistent landing support.",
+    "Tags": [
+      "Climbing"
+    ]
+  },
+  {
+    "ProductName": "ApproachPro Climbing Approach Shoes",
+    "SKU": "SOCL015",
+    "Price": 109.99,
+    "Inventory": 75,
+    "Description": "Sticky rubber approach shoes that grip slabs and scrambles as well as the walk-in trail. Rand wraps the toe and heel for protection; a low-profile midsole keeps you close to the rock.",
+    "Tags": [
+      "Climbing",
+      "Footwear",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "PaddlePro Recreational Kayak Paddle",
+    "SKU": "SOWS010",
+    "Price": 74.99,
+    "Inventory": 90,
+    "Description": "Aluminum-shaft, nylon-blade kayak paddle available in 220\u2013240cm lengths. Ferruled two-piece design stores easily and works for any beginner or recreational paddler on flat water.",
+    "Tags": [
+      "Water Sports",
+      "Kayaking"
+    ]
+  },
+  {
+    "ProductName": "CarbonStroke Touring Kayak Paddle",
+    "SKU": "SOWS011",
+    "Price": 249.99,
+    "Inventory": 30,
+    "Description": "Full-carbon shaft and blades shave weight and reduce flutter for efficient high-angle touring strokes. Four-piece breakdown fits in a checked bag or kayak hatch. Sized 210\u2013230cm.",
+    "Tags": [
+      "Water Sports",
+      "Kayaking",
+      "Touring"
+    ]
+  },
+  {
+    "ProductName": "AdjustaGlide SUP Paddle",
+    "SKU": "SOWS012",
+    "Price": 99.99,
+    "Inventory": 60,
+    "Description": "Three-piece adjustable aluminum SUP paddle sized 68\u201386 inches. Angled fiberglass blade maximizes catch on each stroke; the snap-lock collar locks length in seconds without tools.",
+    "Tags": [
+      "Water Sports",
+      "Paddleboard"
+    ]
+  },
+  {
+    "ProductName": "ClearSea Full-Face Snorkel Mask",
+    "SKU": "SOWS013",
+    "Price": 44.99,
+    "Inventory": 130,
+    "Description": "180-degree panoramic full-face snorkel mask with a dry-top valve that blocks water entry when submerged. Tempered glass lens and silicone skirt seal comfortably against most face shapes.",
+    "Tags": [
+      "Water Sports"
+    ]
+  },
+  {
+    "ProductName": "AquaGuard Waterproof Phone Case",
+    "SKU": "SOWS014",
+    "Price": 19.99,
+    "Inventory": 280,
+    "Description": "Universal waterproof phone case rated IPX8 for submersion up to 100ft. Touch-sensitive front and rear windows allow full phone use without removing the device. Fits phones up to 7 inches.",
+    "Tags": [
+      "Water Sports",
+      "Tech"
+    ]
+  },
+  {
+    "ProductName": "BilgeMaster Kayak Pump",
+    "SKU": "SOWS015",
+    "Price": 24.99,
+    "Inventory": 170,
+    "Description": "Floating hand bilge pump that evacuates water from a flooded cockpit in 60 seconds. 12-inch stroke moves 1.5 liters per stroke \u2014 an essential kayak safety item that stows in the day hatch.",
+    "Tags": [
+      "Water Sports",
+      "Kayaking",
+      "Safety"
+    ]
+  },
+  {
+    "ProductName": "SnowTrek Recreational Snowshoes",
+    "SKU": "SOSN010",
+    "Price": 119.99,
+    "Inventory": 70,
+    "Description": "25-inch aluminum-frame snowshoes for packed and moderate powder trails. Simple ratchet bindings fit most winter boots, and the molded crampon keeps you upright on icy slopes.",
+    "Tags": [
+      "Snow",
+      "Winter",
+      "Snowshoes",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "BackcountryFloat Technical Snowshoes",
+    "SKU": "SOSN011",
+    "Price": 219.99,
+    "Inventory": 35,
+    "Description": "Aggressive 30-inch backcountry snowshoes with a rotating toepiece that reduces calf fatigue on long ascents. Carbon steel crampons bite into steep, icy terrain where recreational shoes slide out.",
+    "Tags": [
+      "Snow",
+      "Winter",
+      "Snowshoes",
+      "Hiking",
+      "Mountaineering"
+    ]
+  },
+  {
+    "ProductName": "VerticalLine Avalanche Probe (240cm)",
+    "SKU": "SOSN012",
+    "Price": 54.99,
+    "Inventory": 80,
+    "Description": "240cm aluminum avalanche probe that deploys from its carry bag in under two seconds. Depth markings every 10cm and a stiff cable lock keep the sections rigid when probing deep debris.",
+    "Tags": [
+      "Snow",
+      "Avalanche",
+      "Mountaineering",
+      "Safety",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "SnowBlade Avalanche Shovel",
+    "SKU": "SOSN013",
+    "Price": 59.99,
+    "Inventory": 75,
+    "Description": "Extendable aluminum avalanche shovel with a D-handle and a 1,800cm\u00b2 blade. The telescoping shaft locks at two lengths for efficient one-handed and two-handed digging in a rescue scenario.",
+    "Tags": [
+      "Snow",
+      "Avalanche",
+      "Mountaineering",
+      "Safety",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "SlopeSafe All-Mountain Ski Helmet",
+    "SKU": "SOSN014",
+    "Price": 89.99,
+    "Inventory": 100,
+    "Description": "ASTM and CE certified ski and snowboard helmet with 13 adjustable vents and a dial-fit retention system. Goggle clip on the back, audio-compatible ear pads, and a removable liner for easy washing.",
+    "Tags": [
+      "Snow",
+      "Skiing",
+      "Snowboarding",
+      "Safety",
+      "Helmet",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "PeakWarm Fleece Balaclava",
+    "SKU": "SOSN015",
+    "Price": 29.99,
+    "Inventory": 190,
+    "Description": "Midweight fleece balaclava that covers the head, neck, and chin. Fits cleanly under a helmet and layers over a merino base. Wind-resistant face panel makes it effective in exposed alpine conditions.",
+    "Tags": [
+      "Snow",
+      "Winter",
+      "Apparel",
+      "Mountaineering"
+    ]
+  },
+  {
+    "ProductName": "TrailStride Aluminum Trekking Poles (pair)",
+    "SKU": "SONT009",
+    "Price": 54.99,
+    "Inventory": 140,
+    "Description": "Adjustable aluminum trekking poles with cork grips, padded wrist straps, and interchangeable baskets for trail and snow use. Twist-lock adjustment from 65\u2013135cm. A durable all-conditions pair.",
+    "Tags": [
+      "Navigation",
+      "Hiking",
+      "Poles"
+    ]
+  },
+  {
+    "ProductName": "CarbonStride Carbon Trekking Poles (pair)",
+    "SKU": "SONT010",
+    "Price": 134.99,
+    "Inventory": 75,
+    "Description": "Ultra-stiff carbon fiber trekking poles at just 240g per pair. Flick-lock collars adjust in seconds; extended cork-and-foam grips let you choke up on descents. For fastpackers and trail runners who count grams.",
+    "Tags": [
+      "Navigation",
+      "Hiking",
+      "Poles",
+      "Ultralight",
+      "Trail Running"
+    ]
+  },
+  {
+    "ProductName": "SummitWatch GPS Altimeter Watch",
+    "SKU": "SONT011",
+    "Price": 249.99,
+    "Inventory": 45,
+    "Description": "Multi-sport GPS watch with a barometric altimeter, digital compass, and storm alert. Tracks elevation gain, route, heart rate, and pace. 20-hour GPS battery makes it viable for a long alpine day.",
+    "Tags": [
+      "Navigation",
+      "Tech",
+      "Hiking",
+      "Trail Running",
+      "Mountaineering"
+    ]
+  },
+  {
+    "ProductName": "ChargePack 10000mAh Power Bank",
+    "SKU": "SONT012",
+    "Price": 44.99,
+    "Inventory": 200,
+    "Description": "10,000mAh USB-C PD power bank that can fully charge a smartphone three times. Dual USB-A ports allow simultaneous charging of two devices. Compact brick form factor slips into any hip-belt pocket.",
+    "Tags": [
+      "Tech",
+      "Hiking",
+      "Camping"
+    ]
+  },
+  {
+    "ProductName": "BaseLink Backcountry Walkie-Talkies (pair)",
+    "SKU": "SONT013",
+    "Price": 69.99,
+    "Inventory": 80,
+    "Description": "22-channel FRS/GMRS walkie-talkie pair with a 35-mile line-of-sight range and NOAA weather alert scanning. Rechargeable via USB-C, waterproof to IPX4 \u2014 the group communication solution when cell service ends.",
+    "Tags": [
+      "Navigation",
+      "Tech",
+      "Safety",
+      "Camping"
+    ]
+  },
+  {
+    "ProductName": "SummitCam 4K Action Camera",
+    "SKU": "SONT014",
+    "Price": 279.99,
+    "Inventory": 55,
+    "Description": "Waterproof to 30ft without a case, shock-resistant action camera shooting 4K at 60fps with electronic image stabilization. Voice control, live preview, and mounting accessories included for helmet, chest, and handlebar use.",
+    "Tags": [
+      "Tech",
+      "Hiking",
+      "Water Sports",
+      "Snow"
+    ]
+  },
+  {
+    "ProductName": "RiverStride Camp Sandals",
+    "SKU": "SOAP011",
+    "Price": 44.99,
+    "Inventory": 160,
+    "Description": "Lightweight camp sandals with a contoured EVA footbed and a quick-dry webbing upper. Ideal as camp shoes after a long day in boots, or for creek crossings where you'd rather not soak your hiking footwear.",
+    "Tags": [
+      "Footwear",
+      "Camping",
+      "Water Sports",
+      "Apparel"
+    ]
+  },
+  {
+    "ProductName": "ConvertPro Zip-Off Hiking Pants",
+    "SKU": "SOAP012",
+    "Price": 74.99,
+    "Inventory": 120,
+    "Description": "Quick-dry nylon hiking pants that zip off at the knee to become shorts. Four zippered pockets, UPF 30 fabric, and an articulated knees cut provide all-day comfort on trail or in camp.",
+    "Tags": [
+      "Apparel",
+      "Hiking",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "SunShield Wide-Brim Trail Hat",
+    "SKU": "SOAP013",
+    "Price": 34.99,
+    "Inventory": 200,
+    "Description": "UPF 50+ nylon trail hat with a 3-inch brim, moisture-wicking sweatband, and a chin cord for windy ridgelines. Crushable and packable \u2014 shoves into a pocket and springs back to shape.",
+    "Tags": [
+      "Apparel",
+      "Hiking",
+      "Trail Running",
+      "Sun Protection"
+    ]
+  },
+  {
+    "ProductName": "WoolCore Merino Hiking Socks (3-pack)",
+    "SKU": "SOAP014",
+    "Price": 42.99,
+    "Inventory": 180,
+    "Description": "Cushioned merino wool hiking socks in crew height. Anatomic left-right shaping, reinforced heel and toe, and merino's natural odor resistance make these the gold standard for multi-day backpacking.",
+    "Tags": [
+      "Apparel",
+      "Footwear",
+      "Hiking",
+      "Winter",
+      "Merino",
+      "Socks"
+    ]
+  },
+  {
+    "ProductName": "AlpineGrip Insulated Waterproof Gloves",
+    "SKU": "SOAP015",
+    "Price": 79.99,
+    "Inventory": 90,
+    "Description": "GORE-TEX waterproof gloves with 150g PrimaLoft insulation and a silicone-printed palm for grip on poles and ice axes. Touchscreen-compatible fingertips and a long gauntlet cuff seal over a jacket sleeve.",
+    "Tags": [
+      "Apparel",
+      "Winter",
+      "Snow",
+      "Mountaineering",
+      "Skiing",
+      "Gloves"
+    ]
+  },
+  {
+    "ProductName": "TrailThin Liner Gloves",
+    "SKU": "SOAP016",
+    "Price": 24.99,
+    "Inventory": 220,
+    "Description": "Lightweight merino-blend liner gloves thin enough to use a touchscreen through. Worn alone on cool days or as a base layer inside waterproof mitts on cold ones \u2014 a versatile layering piece.",
+    "Tags": [
+      "Apparel",
+      "Winter",
+      "Hiking",
+      "Snow",
+      "Gloves"
+    ]
+  },
+  {
+    "ProductName": "NeckWrap Multifunctional Gaiter",
+    "SKU": "SOAP017",
+    "Price": 19.99,
+    "Inventory": 280,
+    "Description": "Stretchy moisture-wicking tube that works as a neck gaiter, balaclava, headband, or dust mask. UPF 50+ polyester fabric \u2014 equally useful on a dusty desert trail or a cold ski resort lift.",
+    "Tags": [
+      "Apparel",
+      "Hiking",
+      "Trail Running",
+      "Snow",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "TitanSip Camp Mug 450ml",
+    "SKU": "SOFD010",
+    "Price": 24.99,
+    "Inventory": 210,
+    "Description": "Lightweight 450ml titanium mug that doubles as a pot for boiling water on a canister stove. Folds-flat handles, graduated markings inside, and a lid that doubles as a plate. Weighs just 88g.",
+    "Tags": [
+      "Food",
+      "Camping",
+      "Backpacking",
+      "Ultralight",
+      "Cookware"
+    ]
+  },
+  {
+    "ProductName": "TitanCook Titanium Pot Set (0.9L + 1.3L)",
+    "SKU": "SOFD011",
+    "Price": 54.99,
+    "Inventory": 95,
+    "Description": "Nested titanium pot set \u2014 0.9L and 1.3L \u2014 with folding handles and a strainer lid. The two pots nest together with a canister stove tucked inside for a kitchen that packs into a fist.",
+    "Tags": [
+      "Food",
+      "Camping",
+      "Backpacking",
+      "Ultralight",
+      "Cookware"
+    ]
+  },
+  {
+    "ProductName": "TrailSpork Titanium Spork",
+    "SKU": "SOFD012",
+    "Price": 12.99,
+    "Inventory": 350,
+    "Description": "14g titanium spork with a long handle that reaches the bottom of a freeze-dried meal bag. Dishwasher-safe and indestructible \u2014 the ultralight utensil that outlasts every plastic alternative.",
+    "Tags": [
+      "Food",
+      "Camping",
+      "Backpacking",
+      "Ultralight",
+      "Cookware"
+    ]
+  },
+  {
+    "ProductName": "AlpineBrews Instant Coffee Singles (20-pack)",
+    "SKU": "SOFD013",
+    "Price": 17.99,
+    "Inventory": 240,
+    "Description": "Single-serve instant coffee packets made from freeze-dried specialty-grade beans. Dissolve in hot or cold water in seconds \u2014 a compact, no-equipment morning ritual for the backcountry.",
+    "Tags": [
+      "Food",
+      "Nutrition",
+      "Camping",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "RapidFuel Energy Gel Variety Pack (12-pack)",
+    "SKU": "SOFD014",
+    "Price": 27.99,
+    "Inventory": 300,
+    "Description": "Twelve 100-kcal energy gels in four flavors \u2014 each with 25g of fast-acting carbohydrates and a small caffeine hit. Isotonic formula requires no extra water and goes down cleanly mid-effort.",
+    "Tags": [
+      "Food",
+      "Nutrition",
+      "Hiking",
+      "Trail Running",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "TrailSpice Mini Spice Kit (10 bottles)",
+    "SKU": "SOFD015",
+    "Price": 21.99,
+    "Inventory": 170,
+    "Description": "Ten 2ml refillable magnetic spice bottles pre-filled with trail-tested seasonings: salt, pepper, garlic, cumin, chili flakes, and five more. The small upgrade that turns a freeze-dried meal into a real dinner.",
+    "Tags": [
+      "Food",
+      "Camping",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "TitanSip Espresso Mug 250ml",
+    "SKU": "SOFD016",
+    "Price": 18.99,
+    "Inventory": 220,
+    "Description": "Compact 250ml titanium mug sized for a single espresso or a short americano. Weighs just 52g \u2014 the morning coffee ritual for weight-conscious backpackers who refuse to sacrifice their brew.",
+    "Tags": [
+      "Food",
+      "Camping",
+      "Backpacking",
+      "Ultralight"
+    ]
+  },
+  {
+    "ProductName": "TitanSip Large Camp Mug 650ml",
+    "SKU": "SOFD017",
+    "Price": 28.99,
+    "Inventory": 180,
+    "Description": "Oversized 650ml titanium mug for a generous pour of coffee, oatmeal, or soup. Wide mouth and a lid that seals tight. Holds a full canister stove inside for efficient packing.",
+    "Tags": [
+      "Food",
+      "Camping",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "TrailThermo Insulated Camp Thermos 500ml",
+    "SKU": "SOFD018",
+    "Price": 39.99,
+    "Inventory": 140,
+    "Description": "Double-wall vacuum-insulated stainless thermos that keeps liquids hot for 10 hours and cold for 24. Leakproof twist lid, wide mouth, and a carry loop. Bring real coffee on the trail without a stove.",
+    "Tags": [
+      "Food",
+      "Camping",
+      "Hiking",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "CampBrew Collapsible Pour-Over Kit",
+    "SKU": "SOFD019",
+    "Price": 22.99,
+    "Inventory": 130,
+    "Description": "Silicone collapsible pour-over dripper that flattens to 10mm for packing. Fits over any mug and uses standard #2 filters. Brings genuine pour-over coffee to the backcountry without adding meaningful weight.",
+    "Tags": [
+      "Food",
+      "Camping",
+      "Backpacking",
+      "Ultralight"
+    ]
+  },
+  {
+    "ProductName": "PumpGuard Pump Water Filter",
+    "SKU": "SOFD020",
+    "Price": 49.99,
+    "Inventory": 95,
+    "Description": "Hand-pump filter with a hollow-fiber membrane that removes bacteria, protozoa, and microplastics. Processes 1L per minute with no waiting \u2014 the fast option when you need treated water now, not in five minutes.",
+    "Tags": [
+      "Food",
+      "Water Filter",
+      "Hiking",
+      "Safety",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "HydroFlow 3L Hydration Reservoir",
+    "SKU": "SOFD021",
+    "Price": 54.99,
+    "Inventory": 100,
+    "Description": "3-liter hydration reservoir with a wide-mouth fill port for easy ice loading and a high-flow bite valve. Insulated tube sleeve and magnetic clip keep the hose routed and accessible while you move.",
+    "Tags": [
+      "Food",
+      "Hydration",
+      "Hiking",
+      "Trail Running",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "SoftFlask 500ml Collapsible Running Bottle",
+    "SKU": "SOFD022",
+    "Price": 12.99,
+    "Inventory": 260,
+    "Description": "Flexible 500ml TPU soft flask that collapses as you drink, eliminating the air pocket and sloshing that plagues rigid bottles. Fits most running vest front pockets \u2014 the standard choice for trail runners.",
+    "Tags": [
+      "Food",
+      "Hydration",
+      "Trail Running",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "FireStoker Wood-Burning Camp Stove",
+    "SKU": "SOFD023",
+    "Price": 34.99,
+    "Inventory": 120,
+    "Description": "Compact stainless steel wood-burning stove that uses sticks, pinecones, and bark as fuel \u2014 no canisters to carry or run out of. Cross-bar grate holds any pot. Packs flat in a stuff sack.",
+    "Tags": [
+      "Food",
+      "Stove",
+      "Camping",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "QuickStep Waterproof Trail Runners",
+    "SKU": "SOAP018",
+    "Price": 114.99,
+    "Inventory": 110,
+    "Description": "Gore-Tex waterproof version of the QuickStep trail runner \u2014 same sticky rubber outsole and rock plate, with an added waterproof-breathable membrane for wet trails, stream crossings, and rainy-day runs.",
+    "Tags": [
+      "Footwear",
+      "Hiking",
+      "Trail Running",
+      "Waterproof",
+      "Apparel"
+    ]
+  },
+  {
+    "ProductName": "SummitTread Low-Cut Trail Shoes",
+    "SKU": "SOAP019",
+    "Price": 99.99,
+    "Inventory": 125,
+    "Description": "Lightweight low-cut trail shoe with a breathable mesh upper and a Vibram Megagrip outsole. Less ankle coverage than the mid boot but more ground feel and ventilation \u2014 the pick for fast day hikes and well-groomed trails.",
+    "Tags": [
+      "Footwear",
+      "Hiking",
+      "Trail Running",
+      "Apparel"
+    ]
+  },
+  {
+    "ProductName": "WoolCore Merino Base Layer Bottoms",
+    "SKU": "SOAP020",
+    "Price": 64.99,
+    "Inventory": 145,
+    "Description": "150gsm merino wool long-john bottoms that pair with the WoolCore top for a complete base layer system. Flatlock seams, a wide waistband, and merino's natural temperature regulation make them suitable from cool summer nights to cold winter camping.",
+    "Tags": [
+      "Apparel",
+      "Base Layer",
+      "Hiking",
+      "Winter",
+      "Merino"
+    ]
+  },
+  {
+    "ProductName": "WoolCore Midweight Merino Base Layer Top",
+    "SKU": "SOAP021",
+    "Price": 84.99,
+    "Inventory": 120,
+    "Description": "250gsm midweight merino long-sleeve top for colder conditions where the lightweight 150gsm isn't enough. Significantly warmer than the standard WoolCore while remaining breathable on the move \u2014 a camp layer and cold-weather belay shirt in one.",
+    "Tags": [
+      "Apparel",
+      "Base Layer",
+      "Hiking",
+      "Winter",
+      "Merino"
+    ]
+  },
+  {
+    "ProductName": "TrailLiner Thin Running Socks (3-pack)",
+    "SKU": "SOAP022",
+    "Price": 22.99,
+    "Inventory": 200,
+    "Description": "Ultra-thin nylon liner socks worn under heavier wool hiking socks to eliminate friction and prevent blisters on long-distance days. Low-cut ankle height fits trail runners and low hiking shoes.",
+    "Tags": [
+      "Apparel",
+      "Footwear",
+      "Hiking",
+      "Trail Running",
+      "Socks"
+    ]
+  },
+  {
+    "ProductName": "SyntheticCushion Hiking Socks (3-pack)",
+    "SKU": "SOAP023",
+    "Price": 28.99,
+    "Inventory": 175,
+    "Description": "Medium-cushion polyester-nylon blend hiking socks with reinforced heel and toe and targeted arch compression. Dries faster than merino \u2014 the practical choice when you need to rinse and dry overnight.",
+    "Tags": [
+      "Apparel",
+      "Footwear",
+      "Hiking",
+      "Backpacking",
+      "Socks"
+    ]
+  },
+  {
+    "ProductName": "PowderShield Waterproof Ski Mitts",
+    "SKU": "SOAP024",
+    "Price": 89.99,
+    "Inventory": 80,
+    "Description": "Waterproof, insulated ski mitts with a goat-leather palm, 200g PrimaLoft fill, and a long gauntlet cuff that seals over a jacket sleeve. Warmer than any glove for lift-served skiing and cold powder days.",
+    "Tags": [
+      "Apparel",
+      "Winter",
+      "Snow",
+      "Skiing",
+      "Snowboarding",
+      "Gloves"
+    ]
+  },
+  {
+    "ProductName": "AlpineGuard Knee-High Mountaineering Gaiters",
+    "SKU": "SOAP025",
+    "Price": 59.99,
+    "Inventory": 90,
+    "Description": "Full knee-high waterproof gaiters for deep snow, mud, and stream crossings. Nylon shell with taped seams, instep strap, and front lace hook keep them locked down on steep terrain. Work over any tall hiking or mountaineering boot.",
+    "Tags": [
+      "Apparel",
+      "Footwear",
+      "Hiking",
+      "Snow",
+      "Mountaineering",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "RunningBrim Lightweight Trail Cap",
+    "SKU": "SOAP026",
+    "Price": 28.99,
+    "Inventory": 210,
+    "Description": "Featherlight 60g trail running cap with a structured brim, laser-cut vents, and a rear reflective strip. Sweat-wicking headband and an adjustable back strap \u2014 blocks sun without trapping heat.",
+    "Tags": [
+      "Apparel",
+      "Trail Running",
+      "Hiking",
+      "Sun Protection"
+    ]
+  },
+  {
+    "ProductName": "MidBeam 350-Lumen Headlamp",
+    "SKU": "SONT015",
+    "Price": 44.99,
+    "Inventory": 180,
+    "Description": "Rechargeable 350-lumen headlamp with a 70-meter beam and a red night-vision mode. USB-C charging, IPX6 waterproof, and a single-button interface \u2014 the practical middle ground between ultralight and full-power.",
+    "Tags": [
+      "Navigation",
+      "Lighting",
+      "Camping",
+      "Hiking",
+      "Headlamp"
+    ]
+  },
+  {
+    "ProductName": "ChargePack 20000mAh Power Bank",
+    "SKU": "SONT016",
+    "Price": 69.99,
+    "Inventory": 120,
+    "Description": "High-capacity 20,000mAh power bank with 65W USB-C PD output \u2014 fast enough to charge a laptop. Charges a smartphone six times over and runs a GPS device for a full multi-day trip. Dual USB-A ports charge accessories simultaneously.",
+    "Tags": [
+      "Tech",
+      "Hiking",
+      "Camping"
+    ]
+  },
+  {
+    "ProductName": "CompactStride Folding Trekking Poles (pair)",
+    "SKU": "SONT017",
+    "Price": 79.99,
+    "Inventory": 95,
+    "Description": "Three-section folding trekking poles that collapse to 35cm \u2014 small enough to strap to a daypack or check in luggage without the bulk of standard telescoping poles. Sturdy enough for technical terrain despite the compact form factor.",
+    "Tags": [
+      "Navigation",
+      "Hiking",
+      "Poles",
+      "Ultralight"
+    ]
+  },
+  {
+    "ProductName": "TrailBuddy 3-Person Tent",
+    "SKU": "SOCS018",
+    "Price": 164.99,
+    "Inventory": 100,
+    "Description": "The sweet spot between cramped and bulky: a three-person freestanding tent with two doors, two vestibules, and enough floor area for three sleeping bags with gear on the sides. The go-to for a small group or a couple who wants extra space.",
+    "Tags": [
+      "Camping",
+      "Hiking",
+      "Backpacking",
+      "Tent"
+    ]
+  },
+  {
+    "ProductName": "TrailRest 0\u00b0F Sleeping Bag",
+    "SKU": "SOCS019",
+    "Price": 159.99,
+    "Inventory": 65,
+    "Description": "Synthetic-fill sleeping bag rated to 0\u00b0F \u2014 warmer than the 3-season bag without the steep price of down. Ideal for late-fall and early-spring camping where overnight lows dip below freezing but expedition-grade insulation isn't necessary.",
+    "Tags": [
+      "Camping",
+      "Sleeping Bag",
+      "Winter",
+      "Backpacking"
+    ]
+  },
+  {
+    "ProductName": "UltraLite Folding Camp Chair",
+    "SKU": "SOCS020",
+    "Price": 119.99,
+    "Inventory": 55,
+    "Description": "575g aluminum-framed folding camp chair that packs to the size of a one-liter bottle. Supports up to 320 lbs and sets up in seconds \u2014 what serious backpackers carry when they refuse to sit on the ground for a week.",
+    "Tags": [
+      "Camping",
+      "Backpacking",
+      "Ultralight"
+    ]
+  },
+  {
+    "ProductName": "AirDream Inflatable Camp Pillow",
+    "SKU": "SOCS021",
+    "Price": 24.99,
+    "Inventory": 230,
+    "Description": "Compact inflatable camp pillow with a soft fleece top surface and a non-slip base that grips a sleeping pad. Inflates in three breaths, deflates to the size of a deck of cards. A simple upgrade to overnight sleep quality.",
+    "Tags": [
+      "Camping",
+      "Sleeping Pad",
+      "Backpacking",
+      "Ultralight"
+    ]
+  },
+  {
+    "ProductName": "FlexRide Beginner Snowboard Boots",
+    "SKU": "SOSN016",
+    "Price": 149.99,
+    "Inventory": 60,
+    "Description": "Soft-flexing lace-up snowboard boots with an EVA footbed and a cushioned outsole. Forgiving enough for beginners learning to link turns, warm enough for a full day on the mountain. Compatible with most strap and step-in bindings.",
+    "Tags": [
+      "Snow",
+      "Snowboarding",
+      "Winter",
+      "Footwear"
+    ]
+  },
+  {
+    "ProductName": "CarveEdge Performance Snowboard Boots",
+    "SKU": "SOSN017",
+    "Price": 289.99,
+    "Inventory": 30,
+    "Description": "Medium-stiff performance boots with a heat-moldable liner and a BOA dial-fit closure system for precise, tool-free lacing on the chair. Stiff enough for aggressive carving and responsive edge transfers at speed.",
+    "Tags": [
+      "Snow",
+      "Snowboarding",
+      "Winter",
+      "Footwear"
+    ]
+  },
+  {
+    "ProductName": "HeatPocket Toe Warmers (10-pack)",
+    "SKU": "SOSN018",
+    "Price": 12.99,
+    "Inventory": 380,
+    "Description": "Adhesive-backed toe warmer inserts that stick to the top of your sock and provide eight hours of steady heat. Thin enough to fit inside any ski or hiking boot without restricting circulation.",
+    "Tags": [
+      "Snow",
+      "Winter",
+      "Skiing"
+    ]
+  },
+  {
+    "ProductName": "SlopeSafe MIPS Race Ski Helmet",
+    "SKU": "SOSN019",
+    "Price": 149.99,
+    "Inventory": 40,
+    "Description": "MIPS-equipped in-mold ski helmet with a hardshell race-profile and a BOA dial fit system for micro-adjustable sizing. 17 vents with a slide-adjust control, full audio compatibility, and a low-profile visor for competitive and advanced resort skiing.",
+    "Tags": [
+      "Snow",
+      "Skiing",
+      "Snowboarding",
+      "Safety",
+      "Helmet",
+      "Winter"
+    ]
+  },
+  {
+    "ProductName": "IronGrip Single Locking D Carabiner",
+    "SKU": "SOCL016",
+    "Price": 8.99,
+    "Inventory": 350,
+    "Description": "Single UIAA-certified locking D carabiner rated to 24kN. Keylock nose prevents snagging on bolt hangers and slings. Buy individually to fill out an anchor system or replace a worn biner.",
+    "Tags": [
+      "Climbing",
+      "Hardware"
+    ]
+  },
+  {
+    "ProductName": "IronGrip Oval Carabiners (2-pack)",
+    "SKU": "SOCL017",
+    "Price": 17.99,
+    "Inventory": 180,
+    "Description": "Two locking oval carabiners \u2014 the shape preferred for pulley systems, aid climbing, and racking nuts and cams because the load always sits at the bottom. Rated to 21kN, screwgate closure.",
+    "Tags": [
+      "Climbing",
+      "Hardware"
+    ]
+  },
+  {
+    "ProductName": "ClimbSafe 8.9mm Ultralight Single Rope (60m)",
+    "SKU": "SOCL018",
+    "Price": 174.99,
+    "Inventory": 35,
+    "Description": "8.9mm dry-treated single rope at the slim end of what's UIAA-certified for single-rope use. Shaves meaningful weight over a standard 9.5\u201310mm rope on long alpine routes where every gram adds up over thousands of feet of climbing.",
+    "Tags": [
+      "Climbing",
+      "Rope",
+      "Mountaineering",
+      "Ultralight",
+      "4-Season"
+    ]
+  },
+  {
+    "ProductName": "ChalkUp Loose Chalk Refill Block (4-pack)",
+    "SKU": "SOCL019",
+    "Price": 13.99,
+    "Inventory": 280,
+    "Description": "Four 56g magnesium carbonate chalk blocks that crush into loose chalk to refill any chalk bag. Purer than pre-crushed chalk \u2014 less filler, better friction on every crimp and sloper.",
+    "Tags": [
+      "Climbing"
+    ]
+  },
+  {
+    "ProductName": "DrySeal Waterproof Bag 5L",
+    "SKU": "SOWS016",
+    "Price": 14.99,
+    "Inventory": 320,
+    "Description": "Compact 5L roll-top dry bag for phones, wallets, keys, and other small valuables on the water. Same welded-seam 500D PVC construction as the larger DrySeal bags \u2014 just right for a hip-belt pocket or the top of a kayak hatch.",
+    "Tags": [
+      "Water Sports",
+      "Dry Bag",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "DrySeal Waterproof Bag 20L",
+    "SKU": "SOWS017",
+    "Price": 27.99,
+    "Inventory": 240,
+    "Description": "20L roll-top dry bag that splits the difference between the compact 10L and the expedition 30L. Fits a day's worth of clothing, a sleeping bag, or camera gear. Shoulder strap loop makes it wearable as a light daypack.",
+    "Tags": [
+      "Water Sports",
+      "Dry Bag",
+      "Camping",
+      "Hiking"
+    ]
+  },
+  {
+    "ProductName": "WetShield Mid-Season 3mm Full Wetsuit",
+    "SKU": "SOWS018",
+    "Price": 149.99,
+    "Inventory": 70,
+    "Description": "Full-length 3mm neoprene wetsuit for water temperatures from 60\u201370\u00b0F \u2014 warmer than a shorty but less restricting than the 5mm suit. Glued and blind-stitched seams, smooth-skin panels on the chest and back block wind on the paddle out.",
+    "Tags": [
+      "Water Sports",
+      "Wetsuit",
+      "Kayaking"
+    ]
+  },
+  {
+    "ProductName": "TandemWave 2-Person Recreational Kayak",
+    "SKU": "SOWS019",
+    "Price": 649.99,
+    "Inventory": 15,
+    "Description": "Stable sit-inside tandem kayak for two paddlers on flat water. Wide beam, molded-in seats with adjustable backrests, and multiple storage hatches. Converts to a solo kayak by moving the front seat to center.",
+    "Tags": [
+      "Water Sports",
+      "Kayaking",
+      "Touring"
+    ]
+  }
+]
